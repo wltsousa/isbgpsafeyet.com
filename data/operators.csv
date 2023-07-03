@@ -195,6 +195,7 @@ Synapsecom Telecoms,cloud,,unsafe,8280,1522
 RKOM,ISP,signed + filtering,safe,12611,1548
 Belwue,ISP,signed + filtering,safe,553,1565
 SpaceNet,ISP,signed + filtering,safe,5539,1584
+Viva Tecnologia Telecom,transit,signed + filtering,safe,266413,1619
 CESNET,ISP,signed + filtering,safe,2852,1638
 A3 Sverige,ISP,,unsafe,45011,1644
 Deutsche Glasfaser,ISP,,unsafe,60294,1681
